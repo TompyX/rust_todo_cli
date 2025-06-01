@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Bevásárlás",
+    "done": false
+  },
+  {
+    "text": "Megírni a Rust feladatot",
+    "done": true
+  }
+]
